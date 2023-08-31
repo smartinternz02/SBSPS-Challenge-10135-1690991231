@@ -6,5 +6,5 @@ While viewing the analysis, dashboard, stories part it will ask for login.
 IBM ID - 22bst212@hicas.ac.in
 PASSWORD - DeVA@18042004
 
-DEMO VIDEO: 
+DEMO VIDEO: https://drive.google.com/file/d/1bd3v_D-V1UqDL9xUkK92Y_OX9Em9xMtq/view?usp=drive_link
 
